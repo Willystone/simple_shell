@@ -85,5 +85,6 @@ At this time, there are no known bugs.
 # Authors ✒️
 Authors	Profile
 Willystone
-Acknowledgements 🙏
+
+# Acknowledgements 🙏
 This project was written as part of the curriculum for ALX Software Engineering Program in partnership with Holberton School.
